@@ -1,2 +1,0 @@
-# TECHIN515_Sp25
-Labs for TECHIN515
