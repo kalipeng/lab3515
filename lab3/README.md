@@ -9,7 +9,7 @@ With sensor integration, we would need to upgrade from our simple decision tree 
 I'm curious whether we should prioritize refining our question set first or move directly toward sensor enhancement for a more immersive experience.
 
 
-## 🔧 Brief Documentation of Implementation
+# Brief Documentation of Implementation
 
 This project implements a **Harry Potter-style sorting hat** on an **ESP32-WROOM-32** board using machine learning.
 
